@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Présentation de Cordova
-subtitle: Un framework multiOS pour applications mobiles 
-cover-img: /assets/img/capture-cordova.png
+title: expérimentation 2
+subtitle: 
+cover-img: /assets/img/PAGE 5.png
 thumbnail-img: /assets/img/capture-cordovathumb.png
 share-img: /assets/img/capture-cordova.png
 tags: [mobile, cordova]
 ---
-
-## Cordova permet de créer des applications mobiles interopérables
-
-Voir la [documentation](https://cordova.apache.org/) cordova
