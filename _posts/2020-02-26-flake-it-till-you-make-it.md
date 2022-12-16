@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mes projets 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/experimentation page 2.png
+thumbnail-img: /assets/img/experimentation page 2.png
+share-img: /assets/img/experimentation page 2.png
 tags: [books, test]
 ---
 
