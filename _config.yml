@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/3DF73225-D8D9-47E2-B144-08671917FF3C.heic"
+avatar: "/assets/img/E2600855-114D-4353-80A4-70FF8CD38AFE.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
