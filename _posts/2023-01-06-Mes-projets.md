@@ -8,4 +8,4 @@ tags: [books, test]
 ---
 
 mes projets sont diverse et variés entre graphisme, animation et UX UI design 
-,Vous pourrez en trouver un différents a cette page (https://perrinetzn.github.io/2020-02-26-flake-it-till-you-make-it/)
+,Vous pourrez en trouver un différents a cette page [post expérimentation](https://perrinetzn.github.io/2020-02-26-flake-it-till-you-make-it/)
